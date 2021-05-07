@@ -1,6 +1,7 @@
 .DS_Store
 Thumbs.db
-rensuke.txt
-001.txt
-memo.txt
-ttt.txt
+test.txt
+Takahashi.txt
+bluetortoise.txt
+.txt
+*.sw?
